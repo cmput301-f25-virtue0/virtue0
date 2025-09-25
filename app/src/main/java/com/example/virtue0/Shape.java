@@ -3,6 +3,7 @@ package com.example.virtue0;
 public abstract class Shape {
     private int x;
     private int y;
+    String colour = "blue";
 
     public int getX() {
         return x;
