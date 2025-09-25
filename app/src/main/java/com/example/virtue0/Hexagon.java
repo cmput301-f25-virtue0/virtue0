@@ -1,4 +1,4 @@
 package com.example.virtue0;
 
-public class Hexagon {
+public class Hexagon extends Shape{
 }
